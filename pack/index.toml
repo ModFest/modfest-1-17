@@ -50,7 +50,7 @@ metafile = true
 
 [[files]]
 file = "mods/cablemod.toml"
-hash = "6509a3bb336e965b9c2c1ec3256395e47a8acdeea4a7fed855534abf5da709ba"
+hash = "358aa4830ebaaa6cb244b47e090e9f2eb5464231001f720538c91756db54fe44"
 metafile = true
 
 [[files]]
