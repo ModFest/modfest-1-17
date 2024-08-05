@@ -11,7 +11,3 @@ hash = "2b1820f0ab8a32ce6c202a639c13da5d34edc067658e90d5ab4be2502aebca2f2a43699e
 [update.modrinth]
 mod-id = "W1D3UXEc"
 version = "hJZ6lCyM"
-
-[option]
-optional = true
-description = "Controller support for Java edition. Recommended for Automobility."

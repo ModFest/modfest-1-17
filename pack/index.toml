@@ -57,18 +57,12 @@ hash = "590d4f2b95cf6fd94239b19552a32fb1a3eb48aae698d912ea21202d36a7a4e6"
 metafile = true
 
 [[files]]
-file = "mods/bruh-moment.toml"
-hash = "9acb17442f39c3bd8138a5db58f7b7e88ce7fe77f042e4fda079acc09c53bdf4"
-metafile = true
+file = "mods/bruh-moment-0.3.0.jar"
+hash = "db3c3fb7fde8f232466e480135f2998dc84b6a0ed3c113a8d5400f926af0c816"
 
 [[files]]
 file = "mods/cablemod.toml"
 hash = "358aa4830ebaaa6cb244b47e090e9f2eb5464231001f720538c91756db54fe44"
-metafile = true
-
-[[files]]
-file = "mods/canvas-renderer.toml"
-hash = "74dc152db4534890fd2ce7b054be28fd86bff71a5bb70174af3932e769ff457e"
 metafile = true
 
 [[files]]
@@ -135,7 +129,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.toml"
-hash = "535608275bff9e0b9d4fbeb7267ddf801e56e17f2d3553999eb731472a81e22c"
+hash = "2e64535aee940e97bfd8b494972547b8ae3c7e1785b16f4863c970d32aceb024"
 metafile = true
 
 [[files]]
@@ -145,7 +139,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdacontrols.toml"
-hash = "4fecf3d4c13eb285d54a48f50f6459a81320a21797b3ed1652915ae0ba7580b3"
+hash = "7b90c383bc3debd158497223d1589c5b118f2f88b29610b90214ffc02e5521b8"
 metafile = true
 
 [[files]]
@@ -229,7 +223,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.toml"
-hash = "59c6dbc81faf4123ad36e9483b7060d9d12a41ab9566e32d536c9ec24e9deb30"
+hash = "e3d60efc428887077d130ca7ec6d1259a9d0240d035d22eee2802555d2a1ded4"
 metafile = true
 
 [[files]]

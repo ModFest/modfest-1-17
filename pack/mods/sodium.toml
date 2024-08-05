@@ -11,7 +11,3 @@ hash = "000d00496ed4e945c4d8c4d6b70584ffec5af6034c39e22d3ccc69734ccaadd37e7e9d31
 [update.modrinth]
 mod-id = "AANobbMI"
 version = "1b0GhKHj"
-
-[option]
-optional = true
-description = "Powerful FPS improvements. Not compatible with Canvas, requires Indium."

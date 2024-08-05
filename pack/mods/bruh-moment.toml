@@ -1,8 +1,0 @@
-name = "Bruh Moment"
-filename = "bruh-moment-0.3.0.jar"
-side = "both"
-
-[download]
-url = "https://ci.dblsaiko.net/job/bruh-moment/1/artifact/build/libs/bruh-moment-0.3.0.jar"
-hash-format = "sha256"
-hash = "db3c3fb7fde8f232466e480135f2998dc84b6a0ed3c113a8d5400f926af0c816"
