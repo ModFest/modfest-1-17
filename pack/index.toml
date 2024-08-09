@@ -13,37 +13,37 @@ file = "mods/Mirrorstones-0.1.1.jar"
 hash = "d5cac07e887e411842d77e2d41e1973c5cdca865e71a322bd2b45d49a118c7b1"
 
 [[files]]
-file = "mods/architectury-fabric.toml"
+file = "mods/architectury-fabric.pw.toml"
 hash = "4b7565fdb5f54b8f1bf9e5c121e9d798b93f4cf2ab491d6f6bbdff497ecb44e6"
 metafile = true
 
 [[files]]
-file = "mods/aroundtheworld.toml"
+file = "mods/aroundtheworld.pw.toml"
 hash = "6c6e795b1ea4c4a056884edd5f65cb00be61decc48767c7f09726c07b7b0fc35"
 metafile = true
 
 [[files]]
-file = "mods/auto-config-updated-api.toml"
+file = "mods/auto-config-updated-api.pw.toml"
 hash = "2b3b8bf50f99f9c6f649ff8e93ae4119bd3bb4f404ffc9c33000e32b9fe4a774"
 metafile = true
 
 [[files]]
-file = "mods/automobility.toml"
+file = "mods/automobility.pw.toml"
 hash = "66089fe78de40d9aa46bd88c7a7642420f6609b17d0d0372d818e29c5b9db3cb"
 metafile = true
 
 [[files]]
-file = "mods/barren-isles.toml"
+file = "mods/barren-isles.pw.toml"
 hash = "26bc4c1f9e9ad5b2875edd71b56e1466220f2eab7cc90e09035dcfc7c7ff7e47"
 metafile = true
 
 [[files]]
-file = "mods/battle-goats.toml"
+file = "mods/battle-goats.pw.toml"
 hash = "8a22306fc3f229e104c537cb8d41ae1e71ff37859b1a8c3dccf4890a03f954b4"
 metafile = true
 
 [[files]]
-file = "mods/better-scaffolding.toml"
+file = "mods/better-scaffolding.pw.toml"
 hash = "eda42e7d61fa079ef3b7d11d8640d4fc684ea65ff262d8bba4820d203dd935e7"
 metafile = true
 
@@ -52,7 +52,7 @@ file = "mods/bingBingWahoo-1.1.3.jar"
 hash = "32916e37f7c240b5e777dc1fad8426b8aef674ca7f52ac17f0202613c7a26e64"
 
 [[files]]
-file = "mods/boats-and-beeps.toml"
+file = "mods/boats-and-beeps.pw.toml"
 hash = "590d4f2b95cf6fd94239b19552a32fb1a3eb48aae698d912ea21202d36a7a4e6"
 metafile = true
 
@@ -61,12 +61,12 @@ file = "mods/bruh-moment-0.3.0.jar"
 hash = "db3c3fb7fde8f232466e480135f2998dc84b6a0ed3c113a8d5400f926af0c816"
 
 [[files]]
-file = "mods/cablemod.toml"
+file = "mods/cablemod.pw.toml"
 hash = "358aa4830ebaaa6cb244b47e090e9f2eb5464231001f720538c91756db54fe44"
 metafile = true
 
 [[files]]
-file = "mods/cloth-config.toml"
+file = "mods/cloth-config.pw.toml"
 hash = "94c221982b03971e906ac09835fae62e95acc7341aaf549cec289ae9f28f15ca"
 metafile = true
 
@@ -75,22 +75,22 @@ file = "mods/collectater-1.0.03.jar"
 hash = "29e5c10bc635794f062bca0250258cda4643f76db0e69bd560c6f08430f1923d"
 
 [[files]]
-file = "mods/directional-tnt.toml"
+file = "mods/directional-tnt.pw.toml"
 hash = "1c841618b3751f2ddc87207f35afa6ff297a733da92b7d6091174c853369f42a"
 metafile = true
 
 [[files]]
-file = "mods/dokokashira-door.toml"
+file = "mods/dokokashira-door.pw.toml"
 hash = "c8b0849bca13d8c098bd5d0db8b3b8395deef2073f6ac12a474f1907e86238f8"
 metafile = true
 
 [[files]]
-file = "mods/ears.toml"
+file = "mods/ears.pw.toml"
 hash = "a19f8b874e50a5763e18e3979f5f4ffac9cdb4cb7e2a2a09b00e59999599cd4e"
 metafile = true
 
 [[files]]
-file = "mods/enchanters-pedestal.toml"
+file = "mods/enchanters-pedestal.pw.toml"
 hash = "f2d5ad66ad13101b7edcd7cd3921b235848e426d4acfdc3b027f4c4c56415161"
 metafile = true
 
@@ -99,17 +99,17 @@ file = "mods/enshrined-1.0.0.jar"
 hash = "60f4c6f9082608e17899b254fbe0bde4b0f71c9be3f80057420b8c1e32980f82"
 
 [[files]]
-file = "mods/fabric-api.toml"
+file = "mods/fabric-api.pw.toml"
 hash = "ba3f4ee756398ce33b6c3a8981123b0a1561442352f6da6d6e5b77a7dce70084"
 metafile = true
 
 [[files]]
-file = "mods/fabric-language-kotlin.toml"
+file = "mods/fabric-language-kotlin.pw.toml"
 hash = "b5313c60b6902deb5c1e661afc5d3d5665d4843c2372a21f29b63bf654f0966b"
 metafile = true
 
 [[files]]
-file = "mods/geckolib.toml"
+file = "mods/geckolib.pw.toml"
 hash = "d702493c4ee7333e7cffa71a66a36da7b35a541a4635b0559ef6f5a5a6e498f1"
 metafile = true
 
@@ -118,87 +118,87 @@ file = "mods/glowcase-1.0.0-canvashack.jar"
 hash = "c3fd22bf8c7c97ac724d4e11a1a25f6f6707ed7ff68972f378d71e8619a02306"
 
 [[files]]
-file = "mods/grappleship.toml"
+file = "mods/grappleship.pw.toml"
 hash = "a9cc9053cc92a0858000f06beea697ea1c15e5672129293ca8245b4eb72c2702"
 metafile = true
 
 [[files]]
-file = "mods/gravity-guns.toml"
+file = "mods/gravity-guns.pw.toml"
 hash = "e86f219611874a673c830c9d3b81efee07aa19bbac0fdf293731a2663f971b95"
 metafile = true
 
 [[files]]
-file = "mods/indium.toml"
+file = "mods/indium.pw.toml"
 hash = "2e64535aee940e97bfd8b494972547b8ae3c7e1785b16f4863c970d32aceb024"
 metafile = true
 
 [[files]]
-file = "mods/ko-maui-me-te-ra.toml"
+file = "mods/ko-maui-me-te-ra.pw.toml"
 hash = "8443b848229eddd2cf40f26c654b7ea1cfb10f25cc2359fe0588ca569df2c08e"
 metafile = true
 
 [[files]]
-file = "mods/lambdacontrols.toml"
+file = "mods/lambdacontrols.pw.toml"
 hash = "7b90c383bc3debd158497223d1589c5b118f2f88b29610b90214ffc02e5521b8"
 metafile = true
 
 [[files]]
-file = "mods/lithium.toml"
+file = "mods/lithium.pw.toml"
 hash = "32fdab068429360301cf1720604f4f0dbb3ab81d3e78f9847be2ff741f04813c"
 metafile = true
 
 [[files]]
-file = "mods/lovely_snails.toml"
+file = "mods/lovely_snails.pw.toml"
 hash = "c76312c31c8f8960cfadeba896d669760499b9b1bee7e826276c16d0e30f5cbd"
 metafile = true
 
 [[files]]
-file = "mods/magical-mahou.toml"
+file = "mods/magical-mahou.pw.toml"
 hash = "7b5b089fc13398f2f1df0d94a555a071f7f505dc0e1be8960fc3e94352ea4a6b"
 metafile = true
 
 [[files]]
-file = "mods/malazan.toml"
+file = "mods/malazan.pw.toml"
 hash = "27fc3151a68d5895429b7723c86a2e271c8379fcc47ff12426d01b1c4a82ce71"
 metafile = true
 
 [[files]]
-file = "mods/modfest-utilities.toml"
+file = "mods/modfest-utilities.pw.toml"
 hash = "88b67f087f441f984f8dc5f7a3f383eddd81de1b95395c9d071af27b1d020b12"
 metafile = true
 
 [[files]]
-file = "mods/modmenu.toml"
+file = "mods/modmenu.pw.toml"
 hash = "5be0024e7a145dce7e9452c6a5a8f829b3a933fee665c9d445904b16cf862920"
 metafile = true
 
 [[files]]
-file = "mods/nauticality.toml"
+file = "mods/nauticality.pw.toml"
 hash = "19fd83f76d355c37edfa937783debb0e49e588557d4d3ee3802e9be5b3294945"
 metafile = true
 
 [[files]]
-file = "mods/ohwhatfun.toml"
+file = "mods/ohwhatfun.pw.toml"
 hash = "3ff254475ef44a926f164104fc88e7d81db5be6332decafccc85bb99b7351b68"
 metafile = true
 
 [[files]]
-file = "mods/paintersblocks.toml"
+file = "mods/paintersblocks.pw.toml"
 hash = "fc44dcab5fca7369465d86e9a77c3ea37ff7eed4e7a24b0ed1d037d478bd2c29"
 metafile = true
 
 [[files]]
-file = "mods/patchouli-fabric.toml"
+file = "mods/patchouli-fabric.pw.toml"
 hash = "6b235318f9ff03a31e4c929c246d07029e7c4b5588456a121ad6ae7b018b9423"
 metafile = true
 
 [[files]]
-file = "mods/phonos.toml"
+file = "mods/phonos.pw.toml"
 hash = "ca031549e9ec2c06a5892a2536256b68637bd40237999619708105b93e08f0a5"
 metafile = true
 
 [[files]]
-file = "mods/player-roles.toml"
+file = "mods/player-roles.pw.toml"
 hash = "247257bc93ed45a0a63755813a62e1d80c9faf67a7ebe6693cb6f7ead618c844"
 metafile = true
 
@@ -207,42 +207,42 @@ file = "mods/rayon-1.3.1.jar"
 hash = "652606ee39f35db8ecb65e12594e4b95e9372bcfc2e2eba6c42efefb81d55cce"
 
 [[files]]
-file = "mods/roughly-enough-items.toml"
+file = "mods/roughly-enough-items.pw.toml"
 hash = "831a4edea7d15b049262b96bdd59ab7f43dedf452318007f267a5cf7eb9c3c94"
 metafile = true
 
 [[files]]
-file = "mods/selene.toml"
+file = "mods/selene.pw.toml"
 hash = "e68b54104cc0ac84a83117aacc60d0a361ca41dee6e331aab8c4e2886609de05"
 metafile = true
 
 [[files]]
-file = "mods/simply-runes.toml"
+file = "mods/simply-runes.pw.toml"
 hash = "1f9486f5b1afe63bcb17e0fd1d04906bb3270a1dd042d26c392e4ec6c4e6b3f0"
 metafile = true
 
 [[files]]
-file = "mods/sodium.toml"
+file = "mods/sodium.pw.toml"
 hash = "e3d60efc428887077d130ca7ec6d1259a9d0240d035d22eee2802555d2a1ded4"
 metafile = true
 
 [[files]]
-file = "mods/sound-track.toml"
+file = "mods/sound-track.pw.toml"
 hash = "5c676bef767155f00db922efb9540eefa03ed7d4548a9b6d26b5b2db447ab3b7"
 metafile = true
 
 [[files]]
-file = "mods/teleportation-potions.toml"
+file = "mods/teleportation-potions.pw.toml"
 hash = "1d4cb18f0ee417908f5450efceec06583c526b01bb2ffaf6b0bbb510d739d40f"
 metafile = true
 
 [[files]]
-file = "mods/trinkets-fabric.toml"
+file = "mods/trinkets-fabric.pw.toml"
 hash = "cdbd2c1492d5ccb0f8cb24e47f44cab1311240ece5b2b500276b6e59d95b7971"
 metafile = true
 
 [[files]]
-file = "mods/trucc.toml"
+file = "mods/trucc.pw.toml"
 hash = "ec484405c9de7020dbba1de6d6584e74c6de78c13428b8374f7c41ab7a8c6d4b"
 metafile = true
 
@@ -251,21 +251,21 @@ file = "mods/wackyvessels-1.0-SNAPSHOT.jar"
 hash = "7a68b643e159a0b6ab997908f645b4efb8828435c426e1efc21189fa92e27f6c"
 
 [[files]]
-file = "mods/walkways.toml"
+file = "mods/walkways.pw.toml"
 hash = "fb399ccc8d72f010f71a2faaffa18955c5d95feee8aa186f4a55386cf049c7d8"
 metafile = true
 
 [[files]]
-file = "mods/workings.toml"
+file = "mods/workings.pw.toml"
 hash = "0331abba08e16dba625eb9b449c545e44aa3578c14a9f4d38ea3ef0850529691"
 metafile = true
 
 [[files]]
-file = "mods/worldshell.toml"
+file = "mods/worldshell.pw.toml"
 hash = "6b9fadb2854a216eb25dead454207d97a6c4a79c66f112053eebd5161e9ddaff"
 metafile = true
 
 [[files]]
-file = "mods/wthit.toml"
+file = "mods/wthit.pw.toml"
 hash = "bd87abd51c0827346d7214d9e58669685cd4019a62478bfafbc1882b1829d56f"
 metafile = true
