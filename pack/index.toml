@@ -269,3 +269,15 @@ metafile = true
 file = "mods/wthit.pw.toml"
 hash = "bd87abd51c0827346d7214d9e58669685cd4019a62478bfafbc1882b1829d56f"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "5c18ec42734d53e18bba1bd72f71a3aee1e12d410de3f71c84dd2430366ceef4"
+
+[[files]]
+file = "server-icon.png"
+hash = "57aa9291fa5be83313d15dff4bb9cb58f10b2a0ca04a321d66221c8e7cde17c5"
+
+[[files]]
+file = "server.properties"
+hash = "88b8a46734794fb64866939e1f4e0c6f8f256f0d397ed6687c189db958bad6f4"

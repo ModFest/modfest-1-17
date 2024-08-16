@@ -1,0 +1,5 @@
+version:2730
+skipMultiplayerWarning:true
+tutorialStep:none
+autoJump:false
+darkMojangStudiosBackground:true
